@@ -1,5 +1,5 @@
 img_path,xmin,ymin,xmax,ymax,width,height,label
-train_images/Diamond1.jpg,200,200,300,300,3024,4032,Diamond
+Diamond1.jpg,200,200,300,300,3024,4032,Diamond
 train_images/Diamond10.jpg,200,200,300,300,3024,4032,Diamond
 train_images/Diamond100.jpg,200,200,300,300,3024,4032,Diamond
 train_images/Diamond101.jpg,200,200,300,300,3024,4032,Diamond
