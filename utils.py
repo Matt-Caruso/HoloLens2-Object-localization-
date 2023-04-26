@@ -23,11 +23,6 @@ def compare_plots(image, gt_bbox, out_bbox):
     
 def plot(image, out_bbox):
 
-    xmin, ymin, xmax, ymax = gt_bbox
-
-    pt1 = (int(xmin), int(ymin))
-    pt2 = (int(xmax), int(ymax))
-
     out_xmin, out_ymin, out_xmax, out_ymax = out_bbox[0]
 
     out_pt1 = (int(out_xmin), int(out_ymin))
